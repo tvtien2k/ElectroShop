@@ -1,0 +1,32 @@
+F:\Documents\ASMddd\ElectroShop\ElectroShop\bin\Debug\ElectroShop.exe.config
+F:\Documents\ASMddd\ElectroShop\ElectroShop\bin\Debug\ElectroShop.exe
+F:\Documents\ASMddd\ElectroShop\ElectroShop\bin\Debug\ElectroShop.pdb
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.csprojAssemblyReference.cache
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.MainMenu.resources
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.Properties.Resources.resources
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.csproj.GenerateResource.cache
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.csproj.CoreCompileInputs.cache
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.exe
+F:\Documents\ASMddd\ElectroShop\ElectroShop\obj\Debug\ElectroShop.pdb
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.csprojAssemblyReference.cache
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormLogin.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.MainMenu.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.Properties.Resources.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.csproj.GenerateResource.cache
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.csproj.CoreCompileInputs.cache
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.exe
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.pdb
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\bin\Debug\ElectroShop.exe.config
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\bin\Debug\ElectroShop.exe
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\bin\Debug\ElectroShop.pdb
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormSuppliers.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormCategory.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormAddProduct.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormListProducts.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormAddStaff.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormListStaff.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormMakeBill.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormListBill.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormListMail.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormReport.resources
+E:\folder IT\database design and development\asm\ElectroShop\ElectroShop\obj\Debug\ElectroShop.FormHome.resources
